@@ -36,6 +36,7 @@ Elisheva R
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
 - [Moin Khan](https://github.com/Moink25) **My first open-source contribution**
 - [Mark Mburu](https://github.com/MarkMburu) **Hello open-source!**
+- [Arpit Sachan] (https://github.com/arpitsachan5) **This is my first open source contribution!**
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [Yusif Elkamshushi](https://github.com/elkamshushi) **ezpz + He is not him**
